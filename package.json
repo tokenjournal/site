@@ -4,7 +4,8 @@
   "description": "",
   "main": "build.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "dev": "lite-server"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +16,8 @@
     "markdown-it-front-matter": "^0.1.2",
     "markdown-it-katex": "^2.0.3",
     "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
   }
 }
