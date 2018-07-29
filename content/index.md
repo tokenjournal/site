@@ -319,6 +319,8 @@ In detail, it works as follows:
 # Journal Proposal: Decentral
 > [name=Fabrizio Romano Genovese] The name is still to be decided, but "Decentral" is a nice suggestion!
 >
+-->
+<!---
 ## Motivation
 The world of crypto is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modelled in some crypto ecosystem, making the possibilities endless. 
 >
