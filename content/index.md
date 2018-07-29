@@ -316,9 +316,9 @@ In detail, the process works as follows:
 - In case of acceptance, **the reviews and the names of the reviewers are made public and attached to the paper**. This is fundamental to ensure transparency for the whole process, and creates a system where **reviewers actively contribute to the paper**. This should push for better, more detailed peer reviewing process.
 - The final paper is published, and the journal releases a DOI to be linked to it, proving that the peer-review process has happened. Any changes made by the authors between the submitted version and the final version are tracked, so that the reviews can be understood in the fullness of their original context.
 
-### Other material
+## Other material
 
-## Editorial Policy Revision
+### Editorial Policy Revision
 - The editorial policy is revised every year
 
 Every two years the steering committee and the executive committee review the editorial policy, and discuss if changes have to be made.
