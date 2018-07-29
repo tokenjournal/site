@@ -1,3 +1,59 @@
+# Home page
+
+`name` is a non-profit, free, open source and peer reviewed journal for contributions in blockchain technology and crypto ecosystem in general. We aim to review and publish papers in the following topics, guaranteeing quick publication:
+- Protocol design
+- Consensus design
+- Cyber-security
+- Hardware design
+- Algorithms/implementation
+- Theoretical characterizations of concepts relevant to crypto
+- Economical models for crypto ecosystems
+- Political/sociological models for crypto ecosystems
+- Philosophical considerations for crypto ecosystems
+
+## Editorial policy
+
+Our editorial policy [link to page] contains some revolutionary differences with respect to conventional ones, such as:
+- Papers are published singularly, there are no journal issues;
+- Reviews rely on a double-blind process;
+- Reviews and reviewers names are made public at publication time;
+- We are publication-format agnostic.
+
+Nor authors or readers have to pay any fee to use the journal: Contents are freely available.
+
+The editorial policy is still in a draft phase. If you have any suggestion please join the discussion! [link to some forum or shit]
+
+## Boards and people
+
+`name` is coordinated by a *steering committe* [link to section], an *editors committee* [link to section] and a *executives committee* [link to section].
+
+### Stering committee
+The stering commitee is responsible for the long-term vision of the journal.
+
+- People
+- People
+- People
+
+### Editor committee
+Editors are responsible for the review process.
+
+- Coordinating editors 
+    - Me?
+    - Philipp?
+
+- Editors
+    - People
+    - People
+    - Peopleople
+    - People 
+
+### Executive committee
+Executives are the people that founded the journal and committed to run it in its practical aspecs (administration, legal, website maintenance, ...)
+
+- Us
+- Us 
+- Us
+
 # Journal Proposal: Decentral
 > [name=Fabrizio Romano Genovese] The name is still to be decided, but "Decentral" is a nice suggestion!
 
