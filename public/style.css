@@ -1,12 +1,15 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 120%;
-    background-color: blanchedalmond;
+    /* padding: 2em; */
+    /* background-color: blanchedalmond; */
 }
 
 .main {
     width: 980px;
-    padding: 45px;
+    padding: 2em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Y U NO .main1!±?±!!??!?!*/
