@@ -1,6 +1,6 @@
 # Home page
 
-`name` is a non-profit, free, open source and peer reviewed journal for contributions in blockchain technology and crypto ecosystem in general. We aim to review and publish papers in the following topics, guaranteeing quick publication:
+**`name` is a non-profit, free, open source and peer reviewed journal for contributions in blockchain technology and the crypto ecosystem in general**. We aim to review and publish papers in the following topics, guaranteeing quick publication:
 - Protocol design
 - Consensus design
 - Cyber-security
@@ -14,19 +14,21 @@
 ## Editorial policy
 
 Our editorial policy [link to page] contains some revolutionary differences with respect to conventional ones, such as:
-- Papers are published singularly, there are no journal issues;
-- Reviews rely on a double-blind process;
-- Reviews and reviewers names are made public at publication time;
+- Papers are published as they are, there are no journal issues;
+- Reviews rely on a first anonymous, then public process;
+- Editors, reviews and reviewers names are made public at publication time;
 - We are publication-format agnostic.
 - Negative results are also welcome.
 
-Nor authors or readers have to pay any fee to use the journal: Contents are freely available.
+Nor authors or readers have to pay any fee to use the journal: **Contents are freely available**.
+
+![Process workflow](https://i.imgur.com/eXkmgIw.jpg)
 
 The editorial policy is still in a draft phase. If you have any suggestion please join the discussion! [link to some forum or shit]
 
 ## Boards and people
 
-`name` is coordinated by a *steering committe* [link to section], an *editors committee* [link to section] and a *executives committee* [link to section].
+`name` is coordinated by a **steering committe** [link to section], an **editors committee** [link to section] and an **executives committee** [link to section].
 
 ### Stering committee
 The stering commitee is responsible for the long-term vision of the journal.
@@ -39,21 +41,21 @@ The stering commitee is responsible for the long-term vision of the journal.
 Editors are responsible for the review process.
 
 - Coordinating editors 
-    - Me?
-    - Philipp?
+    - People
+    - People
 
 - Editors
     - People
     - People
-    - Peopleople
+    - People
     - People 
 
 ### Executive committee
-Executives are the people that founded the journal and committed to run it in its practical aspecs (administration, legal, website maintenance, ...)
+Executives are the people that founded the journal and committed to run it in its practical aspects (administration, legal, website maintenance, ...)
 
-- Us
-- Us 
-- Us
+- People
+- People
+- People
 
 ---
 
@@ -68,7 +70,7 @@ Executives are the people that founded the journal and committed to run it in it
 ## Introductory material
 
 ### Motivation
-- Crypto is growing in impact and importance, but still lacks peer reviewed procedures to evaluate content.
+- Crypto is growing in impact and importance, but still lacks peer reviewed procedures to evaluate contributions.
 
 The world of crypto is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modelled in some crypto ecosystem, making the possibilities endless. 
 
@@ -84,70 +86,72 @@ It is clear then that such authority-based mechanism has to be replaced with som
 ### Openness
 - Isn't the journal too centralized?
 
-The operating scheme of the journal is fairly classical. Albeit many ideas for decentralized academia and publications in general have been proposed in the last years, we do not feel that at the moment they are developed enough to be adoptable on a large scale. In particular, decentralized approaches that are based on "network reputation" are often prone to the same appeal to authority bias that we want to dispose of. This is because unqualified people are able to endorse someone that they deem qualified, even when this is not the case. The main focus of the journal is to have principled, theoretically-informed reviews: all reviewers should therefore have an established curriculum/expertise in the fields they are being asked to review.
+The operating scheme of the journal is fairly classical. Albeit many ideas for decentralized academia and publications in general have been proposed in the last years, **we do not feel that at the moment they are developed enough to be adoptable on a large scale**. In particular, decentralized approaches that are based on "network reputation" are often prone to the same appeal to authority bias that we want to dispose of. This is because unqualified people are able to endorse someone that they deem qualified, even when this is not the case. The main focus of the journal is to have principled, theoretically-informed reviews: all reviewers should therefore have an established curriculum/expertise in the fields they are being asked to review.
 
-Clearly, this may create other types of prejudices, and this is why we are opting for an open-reviews system, where the names of the reviewers are made public at the end of the process. In this case, the crypto community could give us feedback telling us if they agree or not with a particular review.
+Clearly, this may create other types of prejudices, and this is why we are opting for an **open-reviews system, where the names of the reviewers are made public at the end of the process**. In this case, the crypto community could give us feedback telling us if they agree or not with a particular review.
 
 Moreover, listing the reviewer names on the paper is itself a form of contribution, that makes having to pay reviewers unnecessary.
 
 Also, we want to be as open and as inclusive as possible, and we will do everything in our power to mantain contact with the community. We should invite everyone that wants to become an editor/reviewer, or to endorse an editor/reviewer, to write to us: all in all, the fact that our approach is (for the moment) centralized shouldn't deter us from being open to community suggestions, and from vetting those suggestions in detail.
 
 ### Salaries
-- All the committees are made of volouteers
+- All the committees are made of volouteers.
 
 No one receives any form of contribution, economic or not, for their work at `name`. All the committee positions are held on a volounteering basis.
 
 ## Editorial committee 
 
 ### Types of editors
-- Editors and coordinating editors 
+- Editors and Coordinating Editors. 
 
-There are two types of roles in the committee: Editors and coordinating editors. Coordinating editors are responsible of coordinating the editing work, and to assign editors to submissions. They can also handle submissions themselves when no conflict of interest arises. Coordinating editors should have a broad knowledge of all the fields in crypto to quickly assess who are the right people to handle a submission.
+There are two types of roles in the committee: **Editors** and **Coordinating Editors**. 
 
-Editors are responsible for nominating and communicating with reviewers, evaluating reviews and decide acceptance of submissions in the scope of their area of expertise. It is also their responsibility to notify coordinating editors in case they don't feel able to handle an assigned submission, for whatever reason. Editors should have a broad knowledge of their field on interest and of the people working in it, ensuring that competent reviewers are selected.
+Coordinating Editors are responsible of coordinating the editing work, and to assign Editors to submissions. They can also handle submissions themselves when no conflict of interest arises. Coordinating Editors should have a broad knowledge of all the fields in crypto to quickly assess who are the right people to handle a submission.
+
+Editors are responsible for nominating and communicating with reviewers, evaluating reviews and decide acceptance of submissions in the scope of their area of expertise. It is also their responsibility to notify coordinating Editors in case they don't feel able to handle an assigned submission, for whatever reason. Editors should have a broad knowledge of their field on interest and of the people working in it, ensuring that competent reviewers are selected.
 
 ### Permanence in the committee
 - 1 year term by default, renewable.
 
-By default, our editors hold their position for a 1 year-long term. Their mandate is renewable, with no upper bound on the number of terms an editor can serve.
+By default, our Editors hold their position for a 1 year-long term. Their mandate is renewable, with no upper bound on the number of terms an editor can serve.
 
-- When necessary (for example if the terms of several editors end at the same time), renewal of editors will be phased to ensure continuity in the editorial board.
+When necessary (for example if the terms of several editors end at the same time), renewal of Editors will be phased to ensure continuity in the editorial board.
 
 ### Editor selection
-- Nominated by the steering committee
+- Nominated by the steering committee.
 
-Editors can be suggested by anyone, and anyone can self-propose as an editor as well. The approval for editor is carried out by the steering committee. 
+Editors can be suggested by anyone, and anyone can self-propose as an Editor as well. Editor approval is carried out by the steering committee. 
 
-Open calls for editors will be held every time it is necessary.
+Open calls for Editors will be held every time necessary.
 
-New editors can be appointed by the steering committee anytime.
+New Editors can be appointed by the steering committee anytime.
 
 ### Editor committee composition
-- Assembled from a variety of subjects
+- Assembled from a variety of subjects.
 
-Being the scope of our journal very broad, editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Everytime it becomes evident that there is a lack of editors in a certain field, or that some editors are overworking, the steering committe may be asked to appint additional editors.
+Being the scope of our journal very broad, Editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Everytime it becomes evident that there is a lack of Editors in a certain field, or that some Editors are overworking, the steering committe may be asked to appoint additional Editors.
 
-Current editors of `name` can be found here [link to homepage]
+Current Editors of `name` can be found here [link to homepage]
 
 ### Editor withdraw 
-- Anytime
+- Anytime.
 
-If for any reason editors have to withdraw before their term ends, they will be expected to handle all the outstanding submissions assigned to them.
-This not being possible, the editor coordinators will provide another editor to finish the review process.
+If for any reason editors have to withdraw before their term ends, they will be expected to handle all of their outstanding submissions.
+This not being possible, the Coordinating Editors will assign new Editors to finish the review processes.
 
 ### Editor discharge
-- By the steering committee
+- By the steering committee.
 
-Editors can be discharged in case of negligence, behavior that is against the journal policy, or in case the quality of their reviews is low.
+Editors can be discharged in case of negligence, behavior that is against the journal policy, or in case the quality of their work is low.
 
-Anyone can suggest an editor to be discharged, whereas the actual decision is up to the steering committee.
+Anyone can suggest an Editor to be discharged, whereas the actual decision is up to the steering committee.
 
 ## Acceptance criteria
 
 ### Scope
 - We only review contributions that are strictly crypto. We do not review whitepapers.
 
-As many of the journal reviewers come from the enterprise enviromnent, to avoid any obvious conflict of interest, the journal **will not** review whitepapers.
+As many of the journal reviewers and Editors come from the enterprise enviromnent, to avoid any obvious conflict of interest, the journal **will not** review whitepapers.
 
 The scope of the journal is very broad, and is essentially concerned with any kind of contribution, scientific or relating to the social sciences, that may extend and/or characterize the crypto ecosystem in any way. The journal **will** review contributions in the following fields:
 
@@ -166,12 +170,12 @@ The scope of the journal is very broad, and is essentially concerned with any ki
 
 Given the variety of possible contributions, we adopt the following no-review policy to ensure quick publication:
 
-- If papers that are not strictly crypto are submitted, the editor will actively suggest to send them elsewhere, and refuse to select reviewers. For instance, a paper about cryptographic security should be accepted for review/publication only if it has a clear focus on application for blockchain technology.
+- If papers that are not strictly crypto are submitted, the assigned Editor will actively suggest to send them elsewhere, and may refuse to select reviewers. For instance, a paper about cryptographic security should be accepted for review/publication only if it has a clear focus on application for blockchain technology.
 - Papers should be focused on theoretical/practical contributions and not on business. Excerpts from a whitepaper that are handwavy and without meaningful references will be rejected straight away.
 - The quality of submissions has to be of academic standard. Submitting to our journal should be seen as an opportunity to specify concepts in great amount of detail (the kind of detail that one can't usually put into a work intended for a broader audience) to allow quality peer-review.
 
 ### Selectivity
-- `name` is selective
+- `name` is selective.
 
 Submissions to `name` must satisfy at least one of these criteria to be deemed acceptable
 
