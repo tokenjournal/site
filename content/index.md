@@ -59,7 +59,7 @@ Executives are the people that founded the journal and committed to run it in it
 
 ---
 
-# Editorial policy
+# Editorial policy page
 
 > [name=Fabrizio Romano Genovese] All sections should be expandable. when collapsed, only a small amount of text is displayed. Example:
 > # Section
