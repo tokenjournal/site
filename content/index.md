@@ -30,17 +30,24 @@ The editorial policy is still in a draft phase. If you have any suggestion pleas
 
 `name` is coordinated by a **steering committe** [link to section], an **editors committee** [link to section] and an **executives committee** [link to section].
 
-### Stering committee
-The stering commitee is responsible for the long-term vision of the journal.
 
-- People
-- People
-- People
+<details>
+  <summary>
+    <span>Steering Committee</span>
+  </summary>
+  <p>The steering committee is responsible for the long-term vision of the journal.</p>
+  <ul>
+    <li>People</li>
+    <li>People</li>
+    <li>People</li>
+  </ul>
+</details>
+
 
 ### Editor committee
 Editors are responsible for the review process.
 
-- Coordinating editors 
+- Coordinating editors
     - People
     - People
 
@@ -48,7 +55,7 @@ Editors are responsible for the review process.
     - People
     - People
     - People
-    - People 
+    - People
 
 ### Executive committee
 Executives are the people that founded the journal and committed to run it in its practical aspects (administration, legal, website maintenance, ...)
@@ -64,7 +71,7 @@ Executives are the people that founded the journal and committed to run it in it
 > [name=Fabrizio Romano Genovese] All sections should be expandable. when collapsed, only a small amount of text is displayed. Example:
 > # Section
 > - Collapsed small description
-> 
+>
 > full body: lorem ipsum blabla
 
 ## Introductory material
@@ -72,7 +79,7 @@ Executives are the people that founded the journal and committed to run it in it
 ### Motivation
 - With the advent of cryptocurrencies decentralized systems are growing in impact and importance, but peer reviewed procedures to evaluate contributions in the field are still lacking.
 
-The world of decentralization is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modelled in some decentralized ecosystem, making the possibilities endless. 
+The world of decentralization is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modelled in some decentralized ecosystem, making the possibilities endless.
 
 As it often happens in such cases, tech and ideas are growing much faster than academia and established society structures can cope with. The result is that **many proposals are not sufficiently audited, or peer reviewed**. This is undesirable because many pieces of tech or ideas that are released, especially in the cryptocurrency environment, will likely be used to manage valuable assets such as money, and assuming that they will work properly "by trust" is not acceptable. Here are a couple of examples which illustrate the point:
 
@@ -99,12 +106,12 @@ Also, we want to be as open and as inclusive as possible, and we will do everyth
 
 No one receives any form of contribution, economic or not, for their work at `name`. All the committee positions are held on a volounteering basis.
 
-## Editorial committee 
+## Editorial committee
 
 ### Types of editors
-- Editors and Coordinating Editors. 
+- Editors and Coordinating Editors.
 
-There are two types of roles in the committee: **Editors** and **Coordinating Editors**. 
+There are two types of roles in the committee: **Editors** and **Coordinating Editors**.
 
 Coordinating Editors are responsible of coordinating the editing work, and to assign Editors to submissions. They can also handle submissions themselves when no conflict of interest arises. Coordinating Editors should have a broad knowledge of all the fields in crypto to quickly assess who are the right Editors to handle a submission.
 
@@ -120,7 +127,7 @@ When necessary (for example if the terms of several editors end at the same time
 ### Editor selection
 - Nominated by the steering committee.
 
-Editors can be suggested by anyone, and anyone can self-propose as an Editor as well. Editor approval is carried out by the steering committee. 
+Editors can be suggested by anyone, and anyone can self-propose as an Editor as well. Editor approval is carried out by the steering committee.
 
 Open calls for Editors will be held every time necessary.
 
@@ -133,7 +140,7 @@ Being the scope of our journal very broad, Editors are assembled from a variety 
 
 Current Editors of `name` can be found here [link to homepage]
 
-### Editor withdraw 
+### Editor withdraw
 - Anytime.
 
 If for any reason editors have to withdraw before their term ends, they will be expected to handle all of their outstanding submissions.
@@ -178,7 +185,7 @@ Given the variety of possible contributions, `name` adopts the following no-revi
 
 Submissions to `name` must satisfy at least one of these criteria to be deemed acceptable:
 
-- New, original ideas are proposed. 
+- New, original ideas are proposed.
 - New, original techiques or approaches are developed, both theoretically or practically.
 - Incremental contributions are accepted only in the circumstance of providing practical implementations for theoretical concepts (i.e. a widespread technique is used to turn a well-known theoretical concept into a viable protocol, with huge impact).
 
@@ -272,7 +279,7 @@ This second, public stage has the benefits of motivating the reviewers to make a
 ### Review guidelines
 - Simple and ethical.
 
-Guidelines for the review process are simple, and push for reviews that clearly point out the contributions and downsides in a given submission. 
+Guidelines for the review process are simple, and push for reviews that clearly point out the contributions and downsides in a given submission.
 
 Every review consists of a written piece and a grade, on a scale from -5 to -5. The written piece and the grades guide the Editor in the final acceptance/rejection choice.
 
@@ -281,16 +288,16 @@ In case reviewers feel they have a conflict of interest with the submission, or 
 ### Outcome communication
 - Led by Editor.
 
-The editor has the responsibility to communicate the submission outcome to the (corresponding) author(s). 
+The editor has the responsibility to communicate the submission outcome to the (corresponding) author(s).
 
-The ouctome includes the reviews and their grades. 
+The ouctome includes the reviews and their grades.
 At this stage, the reviews are still anonymous. Reviewers names are made public only at publication time.
 
 
 ### Rebuttals
 - Authors are allowed to appeal.
 
-Authors are allowed to write a rebuttal in case they deem the review process unfair. The Editor will then have to decide if having the submission reviewed again or not. 
+Authors are allowed to write a rebuttal in case they deem the review process unfair. The Editor will then have to decide if having the submission reviewed again or not.
 
 In case of appeal, it is likely that the acceptance outcome will take more than two months.
 
@@ -301,15 +308,15 @@ The review process is shown in the following picture, where the tasks are sorted
 
 ![Process workflow](https://i.imgur.com/eXkmgIw.jpg)
 
-In detail, the process works as follows: 
+In detail, the process works as follows:
 
 - A paper is submitted. A receipt notification is sent to the (corresponding) author(s).
-- Editors are selected,and **names are stripped from the paper to ensure the review process being unbiased**. 
-- The Editor selects three reviewers for the review process. **No reviewer knows who the other two reviewes are.** 
+- Editors are selected,and **names are stripped from the paper to ensure the review process being unbiased**.
+- The Editor selects three reviewers for the review process. **No reviewer knows who the other two reviewes are.**
 - If some the reviewers don't feel up to the task (lack of time, lack of expertise), they will notify the coordinating editors accordingly, and  a new reviewer will be selected.
 - The paper is reviewed.
-- Every review consists of a written piece and a grade, on a scale from -5 to -5. 
-- Acceptance or rejection is determined by the Editor. 
+- Every review consists of a written piece and a grade, on a scale from -5 to -5.
+- Acceptance or rejection is determined by the Editor.
 - The decision is communicated to the authors, together with the reviews.
 - Authors can accept the decision or, in case they feel the review process has not been fair, appeal.
 - In case of appeal, the Editor will evaluate the situation and decide if the review process has to be performed again.
@@ -329,3 +336,11 @@ In extraordinary circumstances a policy review could be called for before the ye
 - Projects that have been influential for the drafting of this policy
 
 `name` wants to explictly thank the journal [Compositionality](http://compositionality-journal.org/), to which its editorial policy is partly inspired.
+
+<style>
+summary span {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+</style>
