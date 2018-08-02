@@ -17,3 +17,36 @@ body {
     width: 100%;
     font-size: 1.1em !important;
 }
+
+/* collapsable section hax */
+.hide {
+  display: none;
+}
+
+h6 {
+  font-size: 1.25em !important;
+  color: black !important;
+}
+
+/* arrows */
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 5px;
+  margin-bottom: 2px;
+}
+
+.arrow {
+  margin-right: 10px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
