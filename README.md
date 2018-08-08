@@ -1,5 +1,5 @@
+### build
+	npm run build
 
-# development server
-
+### development server
 	npm run dev
-
