@@ -28,6 +28,11 @@ h6 {
   color: black !important;
 }
 
+h6:hover {
+  color: blue !important;
+  text-decoration: underline;
+}
+
 /* arrows */
 i {
   border: solid black;
