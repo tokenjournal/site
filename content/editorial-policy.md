@@ -64,7 +64,7 @@ Assembled from a variety of subjects.
 
 Being the scope of our journal very broad, Editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Every time it becomes evident that there is a lack of Editors in a certain field, or that some Editors are overworking, the steering committee may be asked to appoint additional Editors.
 
-Current Editors of Decentralized Technology can be found here [link to homepage]
+Current Editors of Decentralized Technology will soon be made public.
 
 ###### Editor withdraw
 Anytime.
