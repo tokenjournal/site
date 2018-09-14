@@ -22,7 +22,7 @@ Nor authors or readers have to pay any fee to use the journal: **submission is f
 
 ![Process workflow](https://i.imgur.com/eXkmgIw.jpg)
 
-The editorial policy is still in a draft phase. If you have any suggestion please join the discussion!
+The editorial policy is still in a draft phase. If you have any suggestion please join the [discussion](mailto:info@statebox.io)!
 
 ## Boards and people
 
@@ -46,4 +46,8 @@ Executives are the people that founded the journal and committed to run it in it
 - [Stefano Gogioso](https://www.cs.ox.ac.uk/people/stefano.gogioso/)
 - [Jelle Herold](https://statebox.org/people/jelle)
 - [Anton Livaja](https://statebox.org/people/anton)
+
+## Sponsors
+
+If you are interested in sponsoring Decentralized Technology, both financially or in kind, please drop us a [mail](mailto:info@statebox.io)!
 
