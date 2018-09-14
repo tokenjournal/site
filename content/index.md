@@ -7,7 +7,7 @@
 - Theoretical characterizations of concepts relevant to decentralization
 - Economic, Legal, Political and Sociological modeling and design for decentralized ecosystems
 - Impact of decentralization on Economics, Law, Society and Politics
-- Philosophical considerations on decentralizatoion
+- Philosophical considerations on decentralization
 
 ## Editorial policy
 
@@ -26,7 +26,7 @@ The editorial policy is still in a draft phase. If you have any suggestion pleas
 
 ## Boards and people
 
-Decentralized Technology is coordinated by a **steering committe** [link to section], an **editors committee** [link to section] and an **executives committee** [link to section].
+Decentralized Technology is coordinated by a **steering committee** [link to section], an **editors committee** [link to section] and an **executives committee** [link to section].
 
 
 ###### Steering Committee
