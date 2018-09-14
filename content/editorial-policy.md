@@ -5,7 +5,7 @@
 ###### Motivation
 With the advent of cryptocurrencies decentralized systems are growing in impact and importance, but peer reviewed procedures to evaluate contributions in the field are still lacking.
 
-The world of decentralization is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modelled in some decentralized ecosystem, making the possibilities endless.
+The world of decentralization is expanding, both technologically and economically. Nearly every aspect of society can be re-engineered and modeled in some decentralized ecosystem, making the possibilities endless.
 
 As it often happens in such cases, tech and ideas are growing much faster than academia and established society structures can cope with. The result is that **many proposals are not sufficiently audited, or peer reviewed**. This is undesirable because many pieces of tech or ideas that are released, especially in the cryptocurrency environment, will likely be used to manage valuable assets such as money, and assuming that they will work properly "by trust" is not acceptable. Here are a couple of examples which illustrate the point:
 
@@ -19,18 +19,18 @@ It is clear then that such authority-based mechanism has to be replaced with som
 ###### Openness
 Isn't the journal too centralized?
 
-The operating scheme of the journal is fairly classical. Albeit many ideas for decentralized academia and publications in general have been proposed in the last years, **we do not feel that at the moment they are developed enough to be adoptable on a large scale**. In particular, decentralized approaches that are based on "network reputation" are often prone to the same appeal to authority bias that we want to dispose of. This is because unqualified people are able to endorse someone that they deem qualified, even when this is not the case. The main focus of the journal is to have principled, theoretically-informed reviews: all reviewers and editors hould therefore have an established curriculum/expertise in the fields they are being asked to handle.
+The operating scheme of the journal is fairly classical. Albeit many ideas for decentralized academia and publications in general have been proposed in the last years, **we do not feel that at the moment they are developed enough to be adoptable on a large scale**. In particular, decentralized approaches that are based on "network reputation" are often prone to the same appeal to authority bias that we want to dispose of. This is because unqualified people are able to endorse someone that they deem qualified, even when this is not the case. The main focus of the journal is to have principled, theoretically-informed reviews: all reviewers and editors should therefore have an established curriculum/expertise in the fields they are being asked to handle.
 
 Clearly, this may create other types of prejudices, and this is why we are opting for an **open-reviews system, where the names of the reviewers are made public at the end of the process**. In this case, the community could give us feedback telling us if they agree or not with a particular review.
 
 Moreover, listing the reviewer names on the paper is itself a form of contribution, that makes having to pay reviewers unnecessary (note that paying reviewers is common practice for many publication journals).
 
-Also, we want to be as open and as inclusive as possible, and we will do everything in our power to mantain contact with the community. **We invite everyone that wants to become an editor/reviewer, or to endorse an editor/reviewer, to write to us**: all in all, the fact that our approach is (for the moment) centralized does not deter us from being open to community suggestions, and from vetting those suggestions in detail.
+Also, we want to be as open and as inclusive as possible, and we will do everything in our power to maintain contact with the community. **We invite everyone that wants to become an editor/reviewer, or to endorse an editor/reviewer, to write to us**: all in all, the fact that our approach is (for the moment) centralized does not deter us from being open to community suggestions, and from vetting those suggestions in detail.
 
 ###### Salaries
-All the committees are made of volouteers.
+All the committees are made of volunteers.
 
-No one receives any form of contribution, economic or not, for their work at Decentralized Technology. All the committee positions are held on a volounteering basis.
+No one receives any form of contribution, economic or not, for their work at Decentralized Technology. All the committee positions are held on a volunteering basis.
 
 ## Editorial committee
 
@@ -62,7 +62,7 @@ New Editors can be appointed by the steering committee anytime.
 ###### Editor committee composition
 Assembled from a variety of subjects.
 
-Being the scope of our journal very broad, Editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Everytime it becomes evident that there is a lack of Editors in a certain field, or that some Editors are overworking, the steering committe may be asked to appoint additional Editors.
+Being the scope of our journal very broad, Editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Every time it becomes evident that there is a lack of Editors in a certain field, or that some Editors are overworking, the steering committee may be asked to appoint additional Editors.
 
 Current Editors of Decentralized Technology can be found here [link to homepage]
 
@@ -84,7 +84,7 @@ Anyone can suggest an Editor to be discharged, whereas the actual decision is up
 ###### Scope
 Decentralized Technology only reviews contributions that are strictly related to decentralization. Decentralized Technology does not review whitepapers.
 
-As many of the journal reviewers and Editors come from the enterprise enviromnent, to avoid any obvious conflict of interest the journal **will not** review whitepapers.
+As many of the journal reviewers and Editors come from the enterprise environment, to avoid any obvious conflict of interest the journal **will not** review whitepapers.
 
 The scope of the journal is very broad, and is essentially concerned with any kind of contribution, scientific or not, that may extend and/or characterize decentralized ecosystems in any way. The journal **will** review contributions in the following fields:
 
@@ -104,7 +104,7 @@ Papers may be rejected without peer review.
 Given the variety of possible contributions, Decentralized Technology adopts the following no-review policy to ensure quick publication:
 
 - If papers that are not strictly about decentralization are submitted, the assigned Editor will actively suggest to submit them elsewhere, and will refuse to select reviewers. For instance, a paper about cryptographic security will be accepted for review/publication only if it has a clear focus on applications to blockchain technology or similar.
-- Papers should be focused on theoretical/practical contributions and not on business. Excerpts from a whitepaper that are handwavy and without meaningful references will be rejected straight away.
+- Papers should be focused on theoretical/practical contributions and not on business. Excerpts from a whitepaper that are 'hand-wavy' and without meaningful references will be rejected straight away.
 
 ###### Selectivity
 Decentralized Technology is selective.
@@ -112,7 +112,7 @@ Decentralized Technology is selective.
 Submissions to Decentralized Technology must satisfy at least one of these criteria to be deemed acceptable:
 
 - New, original ideas are proposed.
-- New, original techiques or approaches are developed, both theoretically or practically.
+- New, original techniques or approaches are developed, both theoretically or practically.
 - Incremental contributions are accepted only in the circumstance of providing practical implementations for theoretical concepts (i.e. a widespread technique is used to turn a well-known theoretical concept into a viable protocol, with huge impact).
 
 The quality of submissions has to be of academic standard. Submitting to Decentralized Technology should be seen as an opportunity to specify concepts in great amount of detail (the kind of detail that one can't usually put into a work intended for a broader audience) to allow quality peer-review.
@@ -127,9 +127,9 @@ We also publish negative results (failed experiments, approaches, ...).
 
 Aside from the main submission topics listed above, we also welcome a kind of submission called **negative results**.
 
-In some academic fields it is more often than not the case that negative results cannot be published, unless they are interesting by themselves. For instance, a failed experiment to sintesize a new molecule would not be normally accepted for publication. This is bad, since building an archive of approaches that did not work could save researches a lot of time. We want to solve this problem by accepting such negative results as a separate kind of contribution to Decentralized Technology.
+In some academic fields it is more often than not the case that negative results cannot be published, unless they are interesting by themselves. For instance, a failed experiment to synthesize a new molecule would not be normally accepted for publication. This is bad, since building an archive of approaches that did not work could save researches a lot of time. We want to solve this problem by accepting such negative results as a separate kind of contribution to Decentralized Technology.
 
-Note how such contributions will have to be reviewed anyway: Before publishing editors have to make sure that the failure of a given approach did not depend on author's misbehavior (e.g. an experiment failing because its setup was ill prepared).This is so that others are not unduly deterret to pursue approaches that might yield fruit with more sophisticated efforts.
+Note how such contributions will have to be reviewed anyway: Before publishing editors have to make sure that the failure of a given approach did not depend on author's misbehavior (e.g. an experiment failing because its setup was ill prepared).This is so that others are not unduly deterred to pursue approaches that might yield fruit with more sophisticated efforts.
 
 Note that for negative results **we cannot guarantee the same response speed as per standard publications**, since standard submissions are prioritized. Acceptance/rejection outcome may need a few months to be received.
 
@@ -139,7 +139,7 @@ Note that for negative results **we cannot guarantee the same response speed as 
 ###### Assigning editors
 Editors are assigned by Coordinating Editors.
 
-Upon receiving a submission, Coordinating Editors individuate the best Editor to hanlde the submission. Each submission has to be handled by an Editor.
+Upon receiving a submission, Coordinating Editors individuate the best Editor to handle the submission. Each submission has to be handled by an Editor.
 
 ###### Transparency
 Every Editor can see all submissions.
@@ -173,7 +173,7 @@ We accept any submission format, in any template, of any length.
 Authors are free to submit in whatever format they deem acceptable as long as Editors are able to access the submission. The use of PDFs and Computational Notebooks is strongly encouraged.
 
 There is no fixed template for submissions, as long as:
-- The template used is not propetary or causing any copyright law infringment;
+- The template used is not proprietary or causing any copyright law infringement;
 - The template lacks some basic features, such as references or the possibility to clearly distinguish title and author names.
 
 We accept submissions of any length. Nevertheless, any submission above 30 pages is likely to require more than two months to receive an outcome.
@@ -196,7 +196,7 @@ Our proposal for the review process has several innovations with respect to stan
 
 - The submission is sent to the reviewers with the authors names and affiliation obfuscated, to reduce biases;
 - Only the Editor knows who the reviewers are. For example, if Editor E assigns reviewers 1,2,3 to a submission, reviewer 1 won't know who reviewers 2 and 3 are;
-- Reviewers are encouraged of not talking about handled submissions with anyone, to avoid spoiling anonimity;
+- Reviewers are encouraged of not talking about handled submissions with anyone, to avoid spoiling anonymity;
 - For each submission, Editors should prefer reviewers that have little chance of knowing each other or communicating with each other, to ensure anonymity.
 
 **In case the submission is accepted for publication, the name of the Editor and the Reviewers will be made public, and the reviews will be attached to the paper as appendixes.**
@@ -216,7 +216,7 @@ Led by Editor.
 
 The editor has the responsibility to communicate the submission outcome to the (corresponding) author(s).
 
-The ouctome includes the reviews and their grades.
+The outcome includes the reviews and their grades.
 At this stage, the reviews are still anonymous. Reviewers names are made public only at publication time.
 
 
@@ -238,7 +238,7 @@ In detail, the process works as follows:
 
 - A paper is submitted. A receipt notification is sent to the (corresponding) author(s).
 - Editors are selected,and **names are stripped from the paper to ensure the review process being unbiased**.
-- The Editor selects three reviewers for the review process. **No reviewer knows who the other two reviewes are.**
+- The Editor selects three reviewers for the review process. **No reviewer knows who the other two reviewers are.**
 - If some the reviewers don't feel up to the task (lack of time, lack of expertise), they will notify the coordinating editors accordingly, and  a new reviewer will be selected.
 - The paper is reviewed.
 - Every review consists of a written piece and a grade, on a scale from -5 to -5.
@@ -261,4 +261,4 @@ In extraordinary circumstances a policy review could be called for before the ye
 ###### Acknowledgements
 Projects that have been influential for the drafting of this policy
 
-Decentralized Technology wants to explictly thank the journal [Compositionality](http://compositionality-journal.org/), to which its editorial policy is partly inspired.
+Decentralized Technology wants to explicitly thank the journal [Compositionality](http://compositionality-journal.org/), to which its editorial policy is partly inspired.
