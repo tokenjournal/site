@@ -25,36 +25,9 @@
         <li class="nav-item">
           <a id="editorial-policy.html" class="nav-link" href="editorial-policy.html">Editorial Policy</a>
         </li>
-        <!-- <li class="nav-item">
-          <a id="boards.html" class="nav-link" href="boards.html">Boards</a>
-        </li> -->
       </ul>
     </div>
   </nav>
-
-  <script>
-    function setActive() {
-      const currentPage = window.location.pathname.split("/").pop()
-      var el = document.getElementById(currentPage);
-      el.classList.add("active");
-    }
-    setActive();
-  </script>
-
-  <style>
-  @media (min-width: 768px){
-    .navbar-nav{
-        float:none;
-        margin: 0 auto;
-        /*display: table;
-        table-layout: fixed;*/
-    }
-  }
-  #navbarSupportedContent > ul > li.nav-item > a {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  </style>
 
   <div class="main">
     <div class="markdown-body">
@@ -65,64 +38,6 @@
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="app.js"></script>
 </body>
 </html>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var collapsableElements = document.getElementsByTagName('H6');
-
-  for(var i = 0; i < collapsableElements.length; i++) {
-    let el = collapsableElements[i];
-
-    let className = "collapse-" + i;
-    el.classList.add(className);
-
-    el.innerHTML = `\<i class=\"${className} arrow right\"><\/i>` + el.innerHTML;
-
-    el.addEventListener('click', function(){
-      toggleSection(this);
-    }, false);
-    toggleSection(el);
-  }
-});
-
-function toggleArrow(el, currentElement) {
-  var arrow = document.getElementsByClassName(`${el.classList} arrow`)[0]
-
-  if (!currentElement.classList.contains("hide")) {
-    arrow.classList.remove("down");
-    arrow.classList.add("right")
-  } else {
-    arrow.classList.remove("right")
-    arrow.classList.add("down");
-  }
-}
-
-function toggleSection(startElement) {
-  var currentElement = startElement.nextElementSibling.nextElementSibling;
-
-  toggleArrow(startElement, currentElement);
-
-  while(true) {
-    if (!currentElement.classList.contains("hide")) {
-      currentElement.classList.add("hide");
-    } else {
-      currentElement.classList.remove("hide");
-    }
-
-    // Switch the current element to the next sibling
-    currentElement = currentElement.nextElementSibling;
-
-    // Stop the loop if the element is null (no sibling elements)
-    if (currentElement == null) {
-      return;
-    }
-
-    //Stop the loop if you hit another <H#> tag
-    if (currentElement.tagName.includes("H")) {
-      return;
-    }
-  }
-}
-</script>
