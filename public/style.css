@@ -6,10 +6,16 @@ body {
 }
 
 .main {
-    width: 980px;
+    width: 100%;
     padding: 2em;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (min-width: 980px){
+  .main {
+      width: 980px;
+  }
 }
 
 /* Y U NO .main1!±?±!!??!?!*/
