@@ -56,6 +56,16 @@ i {
   -webkit-transform: rotate(45deg);
 }
 
+li {
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
+
+#navbarSupportedContent > ul > li {
+   list-style-type: none;
+ }
+
 @media (min-width: 768px){
   .navbar-nav{
       float:none;
