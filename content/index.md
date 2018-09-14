@@ -30,10 +30,14 @@ Decentralized Technology is coordinated by a **steering committee**, an **editor
 
 
 ###### Steering Committee
-The steering committee is responsible for the long-term vision of the journal. Members of the committee will be made public soon.
+The steering committee is responsible for the long-term vision of the journal. 
+
+Members of the committee will be made public soon.
 
 ###### Editor committee
-Editors are responsible for the review process. Members of the committee will be made public soon.
+Editors are responsible for the review process. 
+
+Members of the committee will be made public soon.
 
 ###### Executive committee
 Executives are the people that founded the journal and committed to run it in its practical aspects (administration, legal, website maintenance, ...). 
