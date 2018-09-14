@@ -11,7 +11,7 @@
 
 ## Editorial policy
 
-Our editorial policy [link to page] contains some revolutionary differences with respect to conventional ones, such as:
+Our [editorial policy](editorial-policy.html) contains some revolutionary differences with respect to conventional ones, such as:
 - Papers are published as soon as they are accepted: publication dates are not arranged in issues;
 - Reviews rely on a first anonymous, then public process;
 - Editors, reviews and reviewers names are made public at publication time, and integrated in the submission as appendixes;
