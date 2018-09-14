@@ -100,7 +100,7 @@ function toggleArrow(el, currentElement) {
 }
 
 function toggleSection(startElement) {
-  var currentElement = startElement.nextElementSibling;
+  var currentElement = startElement.nextElementSibling.nextElementSibling;
 
   toggleArrow(startElement, currentElement);
 
