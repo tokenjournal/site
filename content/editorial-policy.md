@@ -1,4 +1,4 @@
-# Editorial policy page
+# Editorial policy
 
 ## Introductory material
 
