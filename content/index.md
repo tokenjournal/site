@@ -1,5 +1,3 @@
-# Home page
-
 **Decentralized Technology is a non-profit, free, open source and peer reviewed journal for contributions in blockchain technology and the distributed ecosystem in general**. We aim to review and publish papers in the following topics, guaranteeing quick publication:
 - Protocol design
 - Consensus design
