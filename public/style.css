@@ -6,10 +6,16 @@ body {
 }
 
 .main {
-    width: 980px;
+    width: 100%;
     padding: 2em;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (min-width: 980px){
+  .main {
+      width: 980px;
+  }
 }
 
 /* Y U NO .main1!±?±!!??!?!*/
@@ -55,16 +61,6 @@ i {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-
-li {
-    font-size: 14px;
-    margin-left: 10px;
-    list-style-type: circle;
- }
-
-#navbarSupportedContent > ul > li {
-   list-style-type: none;
- }
 
 @media (min-width: 768px){
   .navbar-nav{
