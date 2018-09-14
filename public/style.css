@@ -24,7 +24,7 @@ body {
 }
 
 h6 {
-  font-size: 1.25em !important;
+  font-size: 1em !important;
   color: black !important;
 }
 
@@ -54,4 +54,18 @@ i {
 .down {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
+}
+
+@media (min-width: 768px){
+  .navbar-nav{
+      float:none;
+      margin: 0 auto;
+      /*display: table;
+      table-layout: fixed;*/
+  }
+}
+
+#navbarSupportedContent > ul > li.nav-item > a {
+  padding-left: 20px;
+  padding-right: 20px;
 }
