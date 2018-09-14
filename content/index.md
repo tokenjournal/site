@@ -22,36 +22,24 @@ Nor authors or readers have to pay any fee to use the journal: **submission is f
 
 ![Process workflow](https://i.imgur.com/eXkmgIw.jpg)
 
-The editorial policy is still in a draft phase. If you have any suggestion please join the discussion! [link to some forum or shit]
+The editorial policy is still in a draft phase. If you have any suggestion please join the discussion!
 
 ## Boards and people
 
-Decentralized Technology is coordinated by a **steering committee** [link to section], an **editors committee** [link to section] and an **executives committee** [link to section].
+Decentralized Technology is coordinated by a **steering committee**, an **editors committee** and an **executives committee**.
 
 
 ###### Steering Committee
-The steering committee is responsible for the long-term vision of the journal.
-- People
-- People
-- People
-
+The steering committee is responsible for the long-term vision of the journal. Members of the committee will be made public soon.
 
 ###### Editor committee
-Editors are responsible for the review process.
-
-- Coordinating editors
-    - People
-    - People
-
-- Editors
-    - People
-    - People
-    - People
-    - People
+Editors are responsible for the review process. Members of the committee will be made public soon.
 
 ###### Executive committee
-Executives are the people that founded the journal and committed to run it in its practical aspects (administration, legal, website maintenance, ...)
+Executives are the people that founded the journal and committed to run it in its practical aspects (administration, legal, website maintenance, ...). 
 
-- People
-- People
-- People
+- [Fabrizio Genovese](https://statebox.org/people/fabrizio)
+- [Stefano Gogioso](https://www.cs.ox.ac.uk/people/stefano.gogioso/)
+- [Jelle Herold](https://statebox.org/people/jelle)
+- [Anton Livaja](https://statebox.org/people/anton)
+
