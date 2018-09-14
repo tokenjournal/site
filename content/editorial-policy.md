@@ -30,7 +30,7 @@ Also, we want to be as open and as inclusive as possible, and we will do everyth
 ###### Salaries
 All the committees are made of volouteers.
 
-No one receives any form of contribution, economic or not, for their work at `name`. All the committee positions are held on a volounteering basis.
+No one receives any form of contribution, economic or not, for their work at Decentralized Technology. All the committee positions are held on a volounteering basis.
 
 ## Editorial committee
 
@@ -64,7 +64,7 @@ Assembled from a variety of subjects.
 
 Being the scope of our journal very broad, Editors are assembled from a variety of subjects to ensure that reviewers only evaluate material in their area of expertise. Everytime it becomes evident that there is a lack of Editors in a certain field, or that some Editors are overworking, the steering committe may be asked to appoint additional Editors.
 
-Current Editors of `name` can be found here [link to homepage]
+Current Editors of Decentralized Technology can be found here [link to homepage]
 
 ###### Editor withdraw
 Anytime.
@@ -82,7 +82,7 @@ Anyone can suggest an Editor to be discharged, whereas the actual decision is up
 ## Acceptance criteria
 
 ###### Scope
-`name` only reviews contributions that are strictly related to decentralization. `name` does not review whitepapers.
+Decentralized Technology only reviews contributions that are strictly related to decentralization. Decentralized Technology does not review whitepapers.
 
 As many of the journal reviewers and Editors come from the enterprise enviromnent, to avoid any obvious conflict of interest the journal **will not** review whitepapers.
 
@@ -101,33 +101,33 @@ The scope of the journal is very broad, and is essentially concerned with any ki
 ###### No-review policy
 Papers may be rejected without peer review.
 
-Given the variety of possible contributions, `name` adopts the following no-review policy to ensure quick publication:
+Given the variety of possible contributions, Decentralized Technology adopts the following no-review policy to ensure quick publication:
 
 - If papers that are not strictly about decentralization are submitted, the assigned Editor will actively suggest to submit them elsewhere, and will refuse to select reviewers. For instance, a paper about cryptographic security will be accepted for review/publication only if it has a clear focus on applications to blockchain technology or similar.
 - Papers should be focused on theoretical/practical contributions and not on business. Excerpts from a whitepaper that are handwavy and without meaningful references will be rejected straight away.
 
 ###### Selectivity
-`name` is selective.
+Decentralized Technology is selective.
 
-Submissions to `name` must satisfy at least one of these criteria to be deemed acceptable:
+Submissions to Decentralized Technology must satisfy at least one of these criteria to be deemed acceptable:
 
 - New, original ideas are proposed.
 - New, original techiques or approaches are developed, both theoretically or practically.
 - Incremental contributions are accepted only in the circumstance of providing practical implementations for theoretical concepts (i.e. a widespread technique is used to turn a well-known theoretical concept into a viable protocol, with huge impact).
 
-The quality of submissions has to be of academic standard. Submitting to `name` should be seen as an opportunity to specify concepts in great amount of detail (the kind of detail that one can't usually put into a work intended for a broader audience) to allow quality peer-review.
+The quality of submissions has to be of academic standard. Submitting to Decentralized Technology should be seen as an opportunity to specify concepts in great amount of detail (the kind of detail that one can't usually put into a work intended for a broader audience) to allow quality peer-review.
 
 ###### Metrics
 Acceptance/rejection ratio doesn't rely on a metric.
 
-`name` does not accept or reject submission based on reaching a certain acceptance/rejection ratio. It could happen that no submissions are accepted in months, or hundreds are. Submissions singularly, and their rating does not depend on other submission.
+Decentralized Technology does not accept or reject submission based on reaching a certain acceptance/rejection ratio. It could happen that no submissions are accepted in months, or hundreds are. Submissions singularly, and their rating does not depend on other submission.
 
 ###### Negative results
 We also publish negative results (failed experiments, approaches, ...).
 
 Aside from the main submission topics listed above, we also welcome a kind of submission called **negative results**.
 
-In some academic fields it is more often than not the case that negative results cannot be published, unless they are interesting by themselves. For instance, a failed experiment to sintesize a new molecule would not be normally accepted for publication. This is bad, since building an archive of approaches that did not work could save researches a lot of time. We want to solve this problem by accepting such negative results as a separate kind of contribution to `name`.
+In some academic fields it is more often than not the case that negative results cannot be published, unless they are interesting by themselves. For instance, a failed experiment to sintesize a new molecule would not be normally accepted for publication. This is bad, since building an archive of approaches that did not work could save researches a lot of time. We want to solve this problem by accepting such negative results as a separate kind of contribution to Decentralized Technology.
 
 Note how such contributions will have to be reviewed anyway: Before publishing editors have to make sure that the failure of a given approach did not depend on author's misbehavior (e.g. an experiment failing because its setup was ill prepared).This is so that others are not unduly deterret to pursue approaches that might yield fruit with more sophisticated efforts.
 
@@ -161,7 +161,7 @@ Editors that are in conflict of interest with an assigned submission will be sub
 ## Review structure
 
 ###### Speed
-Normally, `name` aims to communicate outcomes within two months from submission.
+Normally, Decentralized Technology aims to communicate outcomes within two months from submission.
 
 Decentralization is a quickly evolving field and time is everything. For this reason it is paramount to ensure the authors that their submissions will be evaluated quickly. In normal circumstances, the whole process from submission to communication of acceptance/rejection should not take more than two months.
 
@@ -261,4 +261,4 @@ In extraordinary circumstances a policy review could be called for before the ye
 ###### Acknowledgements
 Projects that have been influential for the drafting of this policy
 
-`name` wants to explictly thank the journal [Compositionality](http://compositionality-journal.org/), to which its editorial policy is partly inspired.
+Decentralized Technology wants to explictly thank the journal [Compositionality](http://compositionality-journal.org/), to which its editorial policy is partly inspired.
