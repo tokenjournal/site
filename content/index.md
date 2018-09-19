@@ -46,6 +46,7 @@ Executives are the people that founded the journal and committed to run it in it
 - [Stefano Gogioso](https://www.cs.ox.ac.uk/people/stefano.gogioso/)
 - [Jelle Herold](https://statebox.org/people/jelle)
 - [Anton Livaja](https://statebox.org/people/anton)
+- [Emilia Gheorghe](https://statebox.org/people/emi)
 
 ## Sponsors
 
