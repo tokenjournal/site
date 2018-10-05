@@ -5,6 +5,10 @@ body {
     /* background-color: blanchedalmond; */
 }
 
+.markdown-body ul li {
+    list-style-type: circle !important;
+}
+
 .main {
     width: 100%;
     padding: 2em;
